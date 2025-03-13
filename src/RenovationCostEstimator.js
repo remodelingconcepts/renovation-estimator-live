@@ -44,7 +44,7 @@ export default function RenovationCostEstimator() {
   return (
     <Card className="p-6 max-w-2xl mx-auto mt-10 shadow-lg rounded-lg border bg-white font-[Open_Sans]">
       <CardContent>
-        <h2 className="text-3xl font-bold mb-6 text-center text-gray-800 font-[Playfair_Display]">Renovation Cost Estimator</h2>
+        <h2 className="text-3xl font-bold mb-6 text-center text-gray-800 font-[Playfair_Display]">Renovation Cost Estimatorr</h2>
     <h2 className="text-red-500">Test Heading</h2>
     
     <div className="mb-4">
